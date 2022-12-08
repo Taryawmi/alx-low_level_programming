@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 /**
 * main - prints the phase "Programming is like building a multilingual puzzle
