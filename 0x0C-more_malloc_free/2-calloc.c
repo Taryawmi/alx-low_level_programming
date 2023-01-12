@@ -4,9 +4,9 @@
 /**
  * _calloc - allocate memory for an array
  * @nmemb: number of elements
-  @size: size of element in bytes
+ * @size: size of element in bytes
  * Return: pointer to allocated memory
- *       */
+ */
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 char *p;
